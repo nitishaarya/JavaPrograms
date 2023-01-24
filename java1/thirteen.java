@@ -21,12 +21,12 @@ public class thirteen {
             else
             grade = 'D';
             System.out.println("You have passed the exam and your grade is: "+grade);
-
         }
-        else
-        grade = 'F';
-        {
-            System.out.println("You failed in exam nd your grade is"+grade);
+        else{
+            grade = 'F';
+            {
+                System.out.println("You failed in exam nd your grade is"+grade);
+            }
         }
     }
 }
